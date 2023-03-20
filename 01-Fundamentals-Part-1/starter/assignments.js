@@ -44,3 +44,27 @@ population +
 language;
 console.log(description1);
 */
+
+// Coding Challenge #1
+
+// Data 1:
+let markMass = 78;
+let markHeight = 1.69;
+
+let johnMass = 92;
+let johnHeight = 1.95;
+
+// Data 2:
+markMass = 95;
+markHeight = 1.88;
+
+johnMass = 85;
+johnHeight = 1.76
+
+const markBMI = markMass / markHeight ** 2
+const johnBMI = johnMass / johnHeight ** 2
+
+console.log(markBMI, johnBMI)
+
+const markHigherBMI = markBMI > johnBMI
+console.log(markHigherBMI)
