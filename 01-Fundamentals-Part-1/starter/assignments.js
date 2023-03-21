@@ -45,6 +45,7 @@ language;
 console.log(description1);
 */
 
+/*
 // Coding Challenge #1
 
 // Data 1:
@@ -68,3 +69,11 @@ console.log(markBMI, johnBMI)
 
 const markHigherBMI = markBMI > johnBMI
 console.log(markHigherBMI)
+*/
+
+/*
+// LECTURE: Strings and Template Literals
+const description = `${country} is in ${continent}, and it's ${population} milion people speak ${language}`
+console.log(description)
+*/
+
