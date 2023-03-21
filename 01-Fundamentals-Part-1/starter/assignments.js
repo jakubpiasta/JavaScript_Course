@@ -77,3 +77,29 @@ const description = `${country} is in ${continent}, and it's ${population} milio
 console.log(description)
 */
 
+/*
+//LECTURE: Taking Decisions: if / else Statements
+if(population > 33) {
+    console.log(`${country}'s population is above average`);
+} else {
+    console.log(`${country}'s population is ${33 - population} milion below average`);
+}
+*/
+
+/*
+//Coding Challenge #2
+let markMass = 78;
+let markHeight = 1.69;
+
+let johnMass = 92;
+let johnHeight = 1.95;
+
+const markBMI = markMass / markHeight ** 2
+const johnBMI = johnMass / johnHeight ** 2
+
+if(markBMI > johnBMI) {
+    console.log(`Mark's BMI(${markBMI}) is higher than John's(${johnBMI})!`);
+} else {
+    console.log(`John's BMI(${johnBMI}) is higher than Mark's(${markBMI})!`)
+}
+*/
