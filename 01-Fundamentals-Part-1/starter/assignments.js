@@ -125,3 +125,20 @@ if (language === "English" && population < 50 && isIsland === false) {
     console.log(`${country} does not meet your criteria :(`);
 }
 */
+
+/*
+// Coding Challenge #3
+
+const avgScoreDolphins = (97 + 112 + 101) / 3
+const avgScoreKoalas = (109 + 95 + 106) / 3
+
+if (avgScoreDolphins > avgScoreKoalas && avgScoreDolphins >= 100) {
+    console.log(`Dolphins wins the trophy!`);
+} else if (avgScoreDolphins < avgScoreKoalas && avgScoreKoalas >= 100) {
+    console.log(`Koalas wins the trophy!`);
+} else if (avgScoreDolphins === avgScoreKoalas && avgScoreDolphins >= 100 & avgScoreKoalas >= 100) {
+    console.log(`It's a draw. Both wins a trophy`);
+} else {
+    console.log(`Nobody wins the trophy`);
+}
+*/
