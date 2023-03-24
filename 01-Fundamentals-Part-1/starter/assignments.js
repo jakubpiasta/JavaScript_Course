@@ -173,3 +173,11 @@ switch(language) {
 // LECTURE: The Conditional (Ternary) Operator
 population > 33 ? console.log(`${country}'s population is above average`) : console.log(`${country}'s population is below average`);
 */
+
+/*
+// Coding Challenge #4
+const bill= 430;
+let tip = bill >= 50 && bill <= 300 ? bill * 0.15 : bill * 0.2;
+
+console.log(`The bill was ${bill}, the tip was ${tip}, and the total value ${bill + tip}`); 
+*/
