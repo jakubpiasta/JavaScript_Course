@@ -20,11 +20,10 @@ console.log(typeof language);
 
 /*
 // LECTURE: let, const and var
-language = 'polish';
+const language = 'polish';
 const country = 'Poland';
 const continent = 'Europe';
 const isIsland = false;
-isIsland = true;
 */
 
 /*
@@ -114,5 +113,15 @@ if (numNeighbours === 1) {
     console.log(`More than 1 border`);
 } else {
     console.log(`No borders`)
+}
+*/
+
+/*
+// LECTURE: Logical Operators
+
+if (language === "English" && population < 50 && isIsland === false) {
+    console.log(`You should live in ${country} :)`);
+} else {
+    console.log(`${country} does not meet your criteria :(`);
 }
 */
