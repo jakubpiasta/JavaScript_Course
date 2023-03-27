@@ -27,3 +27,10 @@ percentageOfWorld2(1441);
 percentageOfWorld2(40);
 percentageOfWorld2(6);
 */
+
+/*
+// LECTURE: Arrow Functions
+const percentageOfWorld3 = population => population / 7900 * 100;
+
+console.log(percentageOfWorld3(1441));
+*/
