@@ -52,3 +52,23 @@ console.log(describePopulation('China', 1441));
 console.log(describePopulation('Poland', 40));
 console.log(describePopulation('USA', 326));
 */
+
+/*
+// Coding Challenge #1
+const calcAverage = (score1, score2, score3) => (score1 + score2 + score3) / 3;
+
+const avgDolphins = calcAverage(85, 54, 41);
+const avgKoalas = calcAverage(23, 34, 27);
+
+const checkWinner = function(avgDolphins, avgKoalas) {
+    if (avgDolphins >= 2 * avgKoalas) {
+        console.log(`Dolphins win (${avgDolphins} vs. ${avgKoalas})`);
+    } else if (avgKoalas >= 2 * avgDolphins) {
+        console.log(`Koalas win (${avgKoalas} vs. ${avgDolphins})`);
+    } else {
+        console.log(`Nobody wins this time`);
+    }
+}
+
+checkWinner(avgDolphins, avgKoalas);
+*/
