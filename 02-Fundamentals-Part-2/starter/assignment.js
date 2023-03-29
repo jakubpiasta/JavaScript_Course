@@ -133,3 +133,13 @@ const total = [bills[0] + tips[0], bills[1] + tips[1], bills[2] + tips[2]];
 console.log(total);
 */
 
+/*
+// LECTURE: Introduction to Objects
+const myCountry = {
+    country: "Poland",
+    capital: "Warsaw",
+    language: "polish",
+    population: 40,
+    neighbours: ["Germany", "Czech Republic", "Slovakia", "Ukraine", "Belarus", "Lithuania", "Russia"];
+}
+*/

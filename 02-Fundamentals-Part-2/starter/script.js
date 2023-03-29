@@ -175,3 +175,13 @@ if (friends.includes("Steven")) {
     console.log("You have a friend called Peter");
 }
 */
+
+/*
+const jonas = {
+    firstName: "Jonas",
+    lastName: "Schmedtmann",
+    age: 2037 - 1991,
+    job: "teacher",
+    friends: ["Michael", "Peter", "Steven"]
+};
+*/
