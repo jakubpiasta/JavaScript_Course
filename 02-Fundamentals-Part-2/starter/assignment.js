@@ -1,3 +1,5 @@
+'use strict';
+
 /*
 // LECTURE: Functions
 function describeCountry(country, population, capitalCity) {
@@ -90,4 +92,22 @@ const percentages = [
 ];
 
 console.log(percentages);
+*/
+
+/*
+// LECTURE: Basic Array Operations (Methods)
+const neighbours = ["Germany", "Czech Republic", "Slovakia", "Ukraine", "Lithuania", "Belarus", "Russia"];
+
+neighbours.push("Utopia");
+console.log(neighbours);
+
+neighbours.pop();
+console.log(neighbours);
+
+if (!neighbours.includes("Germany")) {
+    console.log("Probably not a central European country :D");
+}
+
+neighbours[neighbours.indexOf("Slovakia")] = "Republic of Slovakia";
+console.log(neighbours);
 */
