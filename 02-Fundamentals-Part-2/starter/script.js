@@ -322,3 +322,24 @@ for(let i = 0; i < jonas.length; i++) {
     console.log(jonas[i], typeof jonas[i]);
 };
 */
+
+/*
+const jonas = [
+    "Jonas",
+    "Schmedtmann",
+    2037 - 1991,
+    "teacher",
+    ["Michael", "Peter", "Steven"]
+];
+
+for(let i = jonas.length - 1; i >= 0; i--) {
+    console.log(jonas[i]);
+};
+
+for(let exercise = 1; exercise <= 3; exercise++) {
+    console.log(`-------- Starting exercise ${exercise}`);
+    for(let repetition = 1; repetition < 6; repetition++) {
+        console.log(`Exercise ${exercise}: Lifting weight repetition ${repetition}`);
+    };
+};
+*/
