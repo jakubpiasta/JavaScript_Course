@@ -245,3 +245,22 @@ for(let i = 0; i < listOfNeighbours.length; i++) {
     };
 };
 */
+
+/*
+// LECTURE: The while Loop
+const populations = [40, 33, 6, 1441];
+const percentages3 = [];
+
+function percentageOfWorld1(population) {
+    return population / 7900 * 100;
+}
+
+let i = 0;
+while(i < populations.length) {
+    const perc = percentageOfWorld1(populations[i]);
+    percentages3.push(perc);
+    i++
+};
+
+console.log(percentages3);
+*/
