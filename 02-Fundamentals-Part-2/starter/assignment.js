@@ -217,3 +217,20 @@ for(let vote = 1; vote <= 50; vote++) {
     console.log(`Voter number ${vote} is currently voting `);
 };
 */
+
+/*
+// LECTURE: Looping Arrays, Breaking and Continuing
+const populations = [40, 33, 6, 1441];
+const percentages2 = [];
+
+function percentageOfWorld1(population) {
+    return population / 7900 * 100;
+}
+
+for(let i = 0; i < populations.length; i++) {
+        const perc = percentageOfWorld1(populations[i]);
+        percentages2.push(perc)
+};
+
+console.log(percentages2);
+*/
