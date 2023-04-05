@@ -257,3 +257,26 @@ console.log(jonas.age);
 // Challenge
 console.log(jonas.getSummary());
 */
+
+// console.log("Lifting wieghts repetition 1");
+// console.log("Lifting wieghts repetition 2");
+// console.log("Lifting wieghts repetition 3");
+// console.log("Lifting wieghts repetition 4");
+// console.log("Lifting wieghts repetition 5");
+// console.log("Lifting wieghts repetition 6");
+// console.log("Lifting wieghts repetition 7");
+// console.log("Lifting wieghts repetition 8");
+// console.log("Lifting wieghts repetition 9");
+// console.log("Lifting wieghts repetition 10");
+
+/*
+// for loop keeps running while condition is TRUE
+for(let rep = 1; rep <= 10; rep++) {
+    console.log(`Lifting weights repetition ${rep}`);
+};
+*/
+
+
+
+
+
